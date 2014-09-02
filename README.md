@@ -1,9 +1,10 @@
 Javascript
 ==========
 
-# Javascript : Enlaces interesantes
+Javascript : Enlaces interesantes que uno se va encontrando mientras hace zapping por páginas web
 
 ## Techtalk Javascript the Good Parts
+### By Douglas Crockford
 http://youtu.be/hQVTIJBZook
 
 ## Developing Backbone.js Applications
